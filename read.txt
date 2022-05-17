@@ -1,0 +1,11 @@
+Extract the node_modules file and follow the below steps to run the project in your compuuter
+Install hyper,
+Install Express
+THen Inside hyper->
+Change Directory to this new folder-    cd Calculator
+Inside the Calculator folder,  
+Open the project folder in Atom 
+-  atom .
+
+Run server with nodemon
+-  nodeman calculator.js
